@@ -1,0 +1,23 @@
+.background {
+    background-color: rgb(223, 104, 104);
+}
+
+.main {
+    text-align: center;
+    font-family: 'Arial', 'sans-serif';
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.bullet {
+    background-color: rgb(129, 129, 237);
+}
+
+#recipe {
+    text-align: center;
+    font-family: 'Arial', 'sans-serif';
+    font-size: 24px;
+    font-weight: 200;
+    color: white;
+}
