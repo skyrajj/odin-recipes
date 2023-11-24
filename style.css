@@ -21,3 +21,34 @@
     font-weight: 200;
     color: white;
 }
+
+.display {
+    height: auto;
+    width: 500px;
+}
+
+.main.sub {
+    font-size: 24px;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Tahoma', 'sans-serif';
+    font-size: 20px;
+    color: white;
+}
+
+#ingredients {
+    color: white;
+    font-family: 'Times New Roman', 'sans-serif';
+    text-align: center;
+    background-color: rgb(33, 196, 33);
+    font-size: 20px;
+}
+
+#steps {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-color: black;
+}
