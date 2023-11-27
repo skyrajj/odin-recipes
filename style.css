@@ -1,3 +1,10 @@
+div {
+    width: 500px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 8px;
+}
+
 .background {
     background-color: rgb(223, 104, 104);
 }
@@ -7,11 +14,14 @@
     font-family: 'Arial', 'sans-serif';
     font-size: 32px;
     font-weight: bold;
-    color: white;
+    color: black;
+    background-color: rgb(129, 129, 237);
+    margin: 0px;
 }
 
 .bullet {
     background-color: rgb(129, 129, 237);
+    margin: 8px 0 0 0;
 }
 
 #recipe {
